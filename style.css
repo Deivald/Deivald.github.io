@@ -1,0 +1,37 @@
+.jumbotron {
+    background: url("bg-3.jpg") no-repeat center center;
+    background-size: cover;
+    border-radius: 0;
+}
+
+.mar {
+    margin: 50px auto;
+}
+
+hr {
+    opacity: 0;
+}
+
+.wh {
+    color:white;
+}
+
+.i1 {
+    font-size: 72px;
+}
+
+.seperator {
+    margin: 50px auto;
+}
+
+.center-line {
+   
+    width: 70px;
+    height: 1px;
+    border-top: 1px solid #bbb;
+    text-align: center;
+}
+
+.gray-bg {
+    background-color: #F5F5F5;
+}
